@@ -1,0 +1,10 @@
+#head-image {
+    object-fit: cover;
+    margin-top: 60px;
+    height: 400px;
+    width: 100%;
+}
+
+#title-text {
+    text-align: center;
+}

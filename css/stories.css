@@ -1,0 +1,10 @@
+#slide {
+    width: 100%;
+}
+
+#head-image {
+    height: 600px;
+    width: 100%;
+    object-position: 50% 80%;
+    object-fit: cover;
+}
