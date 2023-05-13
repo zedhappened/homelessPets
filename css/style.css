@@ -42,6 +42,40 @@ hr {
     font-size: 19px;
 }
 
+#slide {
+    width: 100%;
+}
+
+#head-image-home {
+    object-fit: cover;
+    margin-top: 60px;
+    height: 400px;
+    width: 100%;
+}
+
+#head-image-about {
+    height: 500px;
+    width: 100%;
+    object-position: 30% 0;
+    object-fit: cover;
+}
+
+#head-image-stories {
+    height: 600px;
+    width: 100%;
+    object-position: 50% 80%;
+    object-fit: cover;
+}
+
+#title-text {
+    text-align: center;
+}
+
+#about-text{
+    text-align: justify;
+    padding: 20px 0;
+}
+
 .content {
     width: 960px;
     margin-left: auto;
